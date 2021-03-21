@@ -4,8 +4,8 @@
   "description": "The Links below demonstrate the functionality of the Social Network API!   \r [Demonstration of Models/Controllers/Routes](#)  \r [Invoke Application and Testing User Routes in Insomnia](#)  \r [Testing Thoughts Routes in Insomnia](#)",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
   },
   "repository": {
     "type": "git",
